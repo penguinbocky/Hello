@@ -1,3 +1,7 @@
+<<<<<< dec_develop
 here is landing page.
 
 change this line two shouldn't make conflict when merge with develop it just changed 1st line
+=======
+here is landing page-modiby one.
+>>>>>> master
