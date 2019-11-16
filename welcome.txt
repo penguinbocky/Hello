@@ -5,5 +5,9 @@ fourth
 five
 =======mark as resolved
 third
+<<<<<< dec_develop
+fiveth
+=======
 fourth
 fifth
+>>>>>> master
